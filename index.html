@@ -15,19 +15,16 @@
 
 		<script type="text/javascript">
 		$(document).ready(function() {
-			$("#body").load("writeup.html");
+			$("#body").load("summary.html");
 
-			$("#progress").click(function() {
-				$("#body").load("progress.html");
-			});
-
-
-      $("#writeup").click(function() {
-        $("#body").load("writeup.html");
+      $("#summary").click(function() {
+        $("#body").load("summary.html");
       });
-
-			$("#proposal").click(function() {
-				$("#body").load("proposal.html");
+			$("#visualization").click(function() {
+				$("#body").load("visualization.html");
+			});
+			$("#simulation").click(function() {
+				$("#body").load("simulation.html");
 			});
 		});
 
@@ -35,7 +32,7 @@
 		<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.2/jquery.min.js"></script>
     <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
     <meta charset="UTF-8">
-    <title>Geodesics in Heat</title>
+    <title>Kinect Data Extraction and Visualization</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" type="text/css" href="stylesheets/normalize.css" media="screen">
     <link href='http://fonts.googleapis.com/css?family=Open+Sans:400,700' rel='stylesheet' type='text/css'>
@@ -44,12 +41,13 @@
   </head>
   <body>
     <section class="page-header">
-      <h1 class="project-name">Geodesics in Heat</h1>
-      <h2 class="project-tagline">15-418 Final Project</h2>
-      <a id="proposal" href="#" class="btn">Proposal</a>
-      <a id="writeup" href="#" class="btn">Writeup</a>
-      <a id="progress" href="#" class="btn">Project Checkpoint</a>
-      <a target="_blank" href="https://github.com/sushuang9210/GeodesicsinHeat" class="btn">View on GitHub</a>
+      <h1 class="project-name">Kinect Data Extraction and Visualization</h1>
+			<h2 class="project-tagline">2014 Summer Internship Project at <a target="_blank" href ="http://web.mit.edu" class="white">MIT</a></h2>
+			<h2 class="project-tagline">Instructor: <a target="_blank" href ="https://mcgovern.mit.edu/principal-investigators/nancy-kanwisher" class="white">Professor Nancy Kanwisher</a>, <a target="_blank" href ="http://web.mit.edu/~taogao/www/" class="white">Postdoctoral Researcher Tao Gao</a></h2>
+      <a id="summary" href="#" class="btn">Summary</a>
+			<a id="visualization" href="#" class="btn">Visualization</a>
+			<a id="simulation" href="#" class="btn">Simulation</a>
+      <a target="_blank" href="https://github.com/sushuang9210/KinectDataExtractionandVisualization" class="btn">View on GitHub</a>
 	  <!--
       <a href="https://github.com/sushuang9210/Geodesics in Heat/zipball/master" class="btn">Download .zip</a>
       <a href="https://github.com/sushuang9210/Geodesics in Heat/tarball/master" class="btn">Download .tar.gz</a>

@@ -1,0 +1,20 @@
+﻿Build started 11/5/2014 5:45:45 PM.
+     1>Project "C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\ColorBasics-D2D.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt ColorBasics.cpp ImageRenderer.cpp
+         ImageRenderer.cpp
+         ColorBasics.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Debug\ColorBasics.res" ColorBasics.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\x64\Debug\ColorBasics-D2D.exe" /INCREMENTAL /NOLOGO kinect20.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videostab300d.lib ippicvmt.lib libpng.lib libtiff.lib zlib.lib IlmImf.lib libjasper.lib libjpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\x64\Debug\ColorBasics-D2D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\x64\Debug\ColorBasics-D2D.lib" /MACHINE:X64 x64\Debug\ColorBasics.res
+         x64\Debug\ColorBasics.obj
+         x64\Debug\ImageRenderer.obj
+     1>LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+         ColorBasics-D2D.vcxproj -> C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\x64\Debug\ColorBasics-D2D.exe
+     1>Done Building Project "C:\Users\Kinect Project\Desktop\ColorBasics-D2D_10_23 - picture_10_26 _skeleton\ColorBasics-D2D.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.06

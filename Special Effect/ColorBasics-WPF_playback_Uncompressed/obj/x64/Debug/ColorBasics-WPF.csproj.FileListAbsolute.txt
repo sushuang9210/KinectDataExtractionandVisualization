@@ -1,0 +1,98 @@
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_2\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_3\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\obj\x64\Debug\ColorBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_save_Uncompressed\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\bin\x64\Debug\Microsoft.Kinect.Tools.xml
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed -\obj\x64\Debug\ColorBasics-WPF.csprojResolveAssemblyReference.cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\bin\x64\Debug\ColorBasics-WPF.exe.config
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\MainWindow.baml
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\MainWindow.g.cs
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\App.g.cs
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\ColorBasics-WPF_MarkupCompile.cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\ColorBasics-WPF.g.resources
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\Microsoft.Samples.Kinect.ColorBasics.Properties.Resources.resources
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\obj\x64\Debug\ColorBasics-WPF.csproj.GenerateResource.Cache
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\bin\x64\Debug\ColorBasics-WPF.exe
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\bin\x64\Debug\ColorBasics-WPF.pdb
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\bin\x64\Debug\Microsoft.Kinect.Tools.dll
+C:\Users\Kinect Project\Desktop\batch process\ColorBasics-WPF_playback_Uncompressed\bin\x64\Debug\Microsoft.Kinect.Tools.xml

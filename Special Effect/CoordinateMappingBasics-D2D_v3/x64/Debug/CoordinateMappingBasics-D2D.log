@@ -1,0 +1,19 @@
+﻿Build started 6/12/2016 8:03:42 PM.
+     1>Project "C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\CoordinateMappingBasics-D2D.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W1 /WX- /Od /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt CoordinateMappingBasics.cpp ImageRenderer.cpp
+         ImageRenderer.cpp
+         CoordinateMappingBasics.cpp
+         Generating Code...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"x64\Debug\CoordinateMappingBasics.res" CoordinateMappingBasics.rc 
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\x64\Debug\CoordinateMappingBasics-D2D.exe" /INCREMENTAL /NOLOGO kinect20.lib windowscodecs.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\x64\Debug\CoordinateMappingBasics-D2D.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\x64\Debug\CoordinateMappingBasics-D2D.lib" /MACHINE:X64 x64\Debug\CoordinateMappingBasics.res
+         x64\Debug\CoordinateMappingBasics.obj
+         x64\Debug\ImageRenderer.obj
+         CoordinateMappingBasics-D2D.vcxproj -> C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\x64\Debug\CoordinateMappingBasics-D2D.exe
+     1>Done Building Project "C:\Users\Kinect Project\Desktop\batch process\CoordinateMappingBasics-D2D_v3\CoordinateMappingBasics-D2D.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:04.12

@@ -1,0 +1,15 @@
+﻿Build started 3/28/2015 6:57:32 AM.
+     1>Project "C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\image_recover_picture\image_recover_picture.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _CRT_SECURE_NO_WARNINGS /D _MBCS /Gm /EHsc /RTC1 /MTd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt 1.cpp
+         1.cpp
+     1>1.cpp(49): warning C4101: 'test' : unreferenced local variable
+     1>1.cpp(41): warning C4101: 'num_frm' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\x64\Debug\image_recover_picture.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videostab300d.lib ippicvmt.lib libpng.lib libtiff.lib zlib.lib IlmImf.lib libjasper.lib libjpeg.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\x64\Debug\image_recover_picture.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\x64\Debug\image_recover_picture.lib" /MACHINE:X64 x64\Debug\1.obj
+         image_recover_picture.vcxproj -> C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\x64\Debug\image_recover_picture.exe
+     1>Done Building Project "C:\Users\Kinect Project\Desktop\batch process\image_recover_picture_fullscreen\image_recover_picture\image_recover_picture.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.46
